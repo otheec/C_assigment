@@ -1,0 +1,4 @@
+C:/Users/Otmar/OneDrive/Plocha/ERASMUS/C/assigment/assigment_projects/part2/cmake-build-debug/CMakeFiles/library.dir
+C:/Users/Otmar/OneDrive/Plocha/ERASMUS/C/assigment/assigment_projects/part2/cmake-build-debug/CMakeFiles/part2.dir
+C:/Users/Otmar/OneDrive/Plocha/ERASMUS/C/assigment/assigment_projects/part2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Otmar/OneDrive/Plocha/ERASMUS/C/assigment/assigment_projects/part2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
